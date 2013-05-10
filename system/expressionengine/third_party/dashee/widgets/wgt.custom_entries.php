@@ -147,5 +147,5 @@ class Wgt_custom_entries
 
 }
 
-/* End of file wgt.recent_entries.php */
+/* End of file wgt.custom_entries.php */
 /* Location: /system/expressionengine/third_party/dashee/widgets/wgt.custom_entries.php */
