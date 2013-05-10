@@ -10,6 +10,7 @@
  * @category	Widget
  * @author		John Henry Donovan
  * @link		http://johnhenry.ie
+ * @version		1.0
  */
 
 class Wgt_custom_entries
