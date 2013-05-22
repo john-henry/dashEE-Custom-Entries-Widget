@@ -15,6 +15,9 @@
 
 class Wgt_custom_entries
 {
+	public $widget_name 		= 'Custom Entries';
+	public $widget_description 	= 'Displays X number of recent entries from chosen channel.';
+
 	public $title;
 	public $wclass;
 	public $settings;
@@ -26,6 +29,8 @@ class Wgt_custom_entries
 	 */
 	public function __construct()
 	{
+
+
 		$this->settings = array(
 			'title' => 'Channel Name Entries',
 			'channel_id' => '1',
